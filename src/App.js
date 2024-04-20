@@ -28,7 +28,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://poetic-sunburst-16d857.netlify.app/"
+            href = "https://https://poetic-sunburst-16d857.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
